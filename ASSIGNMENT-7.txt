@@ -1,0 +1,11 @@
+                                                                                                                                               ASSIGNMENT-7
+
+1.  HTML5 introduces several new features including new semantic tags (<header>, <footer>, <article>, <section>, etc.), the <canvas> and <video> elements for graphics and multimedia, new form controls (such as date pickers and sliders), and support for new APIs (such as geolocation and local storage). Additionally, HTML5 introduces improvements to accessibility, performance, and security.
+
+2.  Semantic tags are HTML tags that indicate the meaning or purpose of the content they contain, rather than just how the content should look. They provide a way for search engines, screen readers, and other web technologies to understand the structure and context of the content. Examples of semantic tags include <header>, <footer>, <nav>, <article>, <section>, and <aside>.
+
+3.  Some uses of semantic tags include:
+- Improving accessibility for users with disabilities who rely on assistive technologies like screen readers
+- Improving search engine optimization (SEO) by providing more context for search engines to understand the content of a webpage
+- Improving the readability and maintainability of code by making it easier to understand the structure and purpose of different sections of a webpage
+- Improving interoperability with other web technologies by providing a clear and consistent structure for webpages.
